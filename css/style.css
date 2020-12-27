@@ -128,7 +128,7 @@ hr {
 }
 .btn-default {
 	text-transform: uppercase;
-	color: #555;
+	color: rgb(255, 255, 255);
 	background-color: transparent;
 	border-color: #777;
 	padding: 14px 20px;
@@ -138,7 +138,7 @@ hr {
 	margin-top: 20px;
 }
 .btn-default:hover, .btn-default:focus, .btn-default.focus, .btn-default:active, .btn-default.active {
-	color: #fff;
+	color: rgb(253, 253, 253);
 	background-color: #121d1f;
 	border-color: #121d1f;
 }
@@ -148,8 +148,8 @@ hr {
 	width: 100%;
 	padding: 0;
 	text-align: center;
-	color: #333;
-	background: url(../img/intro-bg.jpg) no-repeat center top;
+	color: rgb(255, 255, 255);
+	background: url(../img/background.jpg) no-repeat center top;
 	background-color: #e5e5e5;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -165,7 +165,7 @@ hr {
 	letter-spacing: 2px;
 	text-transform: uppercase;
 	margin-bottom: 20px;
-	color: #333;
+	color: rgb(255, 255, 255);
 }
 .intro p {
 	font-size: 20px;
